@@ -2,7 +2,7 @@
 
 ## 🧐 About the project
 
-Katas made with JS or Java during the 6months of the bootcamp with FactoriaF5.
+Katas done with JS or Java during the 6 months of the bootcamp with FactoriaF5.
 
 ## ⚡Installation
 ### Create a new Gradle project﻿
